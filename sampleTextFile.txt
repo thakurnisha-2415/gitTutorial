@@ -1,2 +1,18 @@
 this is a sample text file
-text is ok !
+
+
+
+
+
+
+
+:wq
+
+exit
+:w
+:wc
+:wq
+
+:wq
+there are many people
+
